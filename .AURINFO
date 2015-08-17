@@ -1,0 +1,13 @@
+pkgbase = rmv
+	pkgdesc = Randomly moves files to a directory
+	pkgver = 2.0
+	pkgrel = 1
+	url = http://github.com/BenDoan/rmv
+	arch = any
+	license = MIT
+	depends = python
+	provides = rmv
+	source = https://github.com/BenDoan/rmv/archive/2.0.tar.gz
+
+pkgname = rmv
+
